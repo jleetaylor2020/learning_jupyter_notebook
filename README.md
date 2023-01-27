@@ -1,1 +1,1 @@
-# learning_juypiter_notebook
+# learning_jupyter_notebook
